@@ -11037,3 +11037,16 @@ body {
   background:dark ;
   display: flex;
 }
+
+.bootcamp {
+  width: 300px;
+  height: 300px;
+  object-fit: contain;
+  justify-content: space-between;
+  margin: 20px;
+  box-shadow: 0 0 15px white;
+
+  
+
+
+}
